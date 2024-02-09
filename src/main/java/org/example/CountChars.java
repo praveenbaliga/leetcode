@@ -2,7 +2,7 @@ package org.example;
 
 public class CountChars {
     public static void main(String[] args) {
-        String str = "Praveen";
+        String str = "Praaveena";
 
         char ch = str.charAt(0);
         int count = 1;

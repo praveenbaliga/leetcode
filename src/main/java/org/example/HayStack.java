@@ -15,6 +15,6 @@ public class HayStack {
             }
     }
     public static void main(String[] args) {
-        strStr("sadbutsad", "sad");
+        System.out.println(strStr("sadbutsad", "but"));
     }
 }

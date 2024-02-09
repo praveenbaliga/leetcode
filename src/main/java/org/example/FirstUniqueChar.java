@@ -5,7 +5,7 @@ import java.util.List;
 
 public class FirstUniqueChar {
     public static void main(String[] args) {
-        String str = "Hello";
+        String str = "HHello";
         boolean flag = false;
         char firstChar = 0;
         List<Character> characterList = new ArrayList<>();
